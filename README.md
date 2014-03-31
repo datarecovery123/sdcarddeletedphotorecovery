@@ -1,7 +1,7 @@
-sdcarddeletedphotorecovery
+SD Card Recovery Photo and Video Recovery
 ==========================
 
-sdcarddeletedphotorecovery
+How to Recover Deleted Photos and Videos ?
 <p>
 	Deleting an image or photo from SD memory card in haste is a terrifying experience. And if the deleted&nbsp;photo&nbsp;is one among your favorite photos, it is highly difficult to bear with. In the world of digital photography, accidental deletion of captured image from microSD card is quite common.
 </p>
